@@ -1,0 +1,3 @@
+CNY70Custom KEYWORD1
+isThisWhite KEYWORD2
+getColour KEYWORD2
